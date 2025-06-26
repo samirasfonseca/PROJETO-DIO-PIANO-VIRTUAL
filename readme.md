@@ -8,7 +8,7 @@ Toque notas reais com seu teclado ou clique com o mouse nas teclas. Um projeto m
 
 ## 🎬 Demonstração
 
-[![Assista no YouTube](./capture-2025606.png)](https://www.youtube.com/watch?v=24U9t-K1rPU)
+[![Assista no YouTube](./piano.png)](https://www.youtube.com/watch?v=24U9t-K1rPU)
 
 
 
